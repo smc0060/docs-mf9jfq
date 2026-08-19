@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-plxgtp.privatetalks.online/sitemap.xml
